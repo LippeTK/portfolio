@@ -11,6 +11,7 @@ export const styles = StyleSheet.create({
     justifyContent: "center",
     marginBottom: 20,
     backgroundColor: "#fff",
+    elevation: 3,
   },
   buttonText: {
     fontSize: 17,
