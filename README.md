@@ -1,4 +1,4 @@
-# Portfolio React Native
+# Linktree / Portfolio React Native
 
 Um **portfolio simples em React Native** com meus links de contato e destaque para as tecnologias que utilizo. O projeto utiliza **Bottom Tabs Navigation** para navegar entre a tela inicial e a tela de skills. Feito com React Native e TypeScript
 
